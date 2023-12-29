@@ -17,8 +17,8 @@ How to make money, a lot of it without sweat.
 退出TMF。
 
 中期： 维持看空市场的理由受到挑战，可能性越来越淡。2024的1，2季度经济衰退可能永远不会到来！？ 
-把中期仓位改变为50%现金或短期债券。把50%资金调整入特定策略组合。 （策略组合另外有链接 https://github.com/Athermes/folio）。
-
+把中期仓位改变为50%现金或短期债券。把50%资金调整入特定策略组合。 （ 策略组合另外有链接 https://github.com/Athermes/folio ）。
+ 
 长期：401k继续dca。 
 长期美债已经底部。60|40的传统组合又开始有意义。 
 
